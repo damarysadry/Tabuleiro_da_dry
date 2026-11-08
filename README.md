@@ -9,7 +9,7 @@
 - Damaris Adriele Santos Rodrigues (trabalho individual)
 
 ## Descrição
-Jogo da Velha para dois jogadores humanos, executado no terminal. O tabuleiro é uma matriz (lista de listas) criada e exibida por funções, percorrida com `for` aninhado. O programa tem menu com `while`, regras, validação de todas as entradas (nunca fecha com erro), placar em dicionário, histórico em vetor, opção de jogar novamente sem reiniciar e dois desafios de lógica.
+Jogo da Velha para dois jogadores, executado no terminal. O tabuleiro é uma matriz (lista de listas) criada e exibida por funções, percorrida com `for` aninhado. O programa tem menu com `while`, regras, validação de todas as entradas (nunca fecha com erro), placar em dicionário, histórico em vetor, opção de jogar novamente sem reiniciar e dois desafios de lógica.
 
 ## Como executar
 1. Instale o Python 3.
@@ -69,4 +69,4 @@ Trabalho realizado de forma individual por Damaris Adriele Santos Rodrigues, res
 
 ## Entrega
 - Repositório GitHub: https://github.com/damarysadry/Tabuleiro_da_dry
-- Vídeo não listado no YouTube: [INSERIR LINK REAL]
+- Vídeo no YouTube: [AGUARDANDO LINK]
