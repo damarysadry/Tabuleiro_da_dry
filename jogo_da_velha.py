@@ -8,7 +8,7 @@
 #   2) Estatísticas da sessão    -> funções mostrar_estatisticas(),
 #                                   maior_sequencia() e calcular_percentual()
 #
-# Observação: o programa usa apenas o conteúdo permitido no enunciado
+# Observação: o programa foi utilizado apenas com o conteúdo/funções permitido no manual do trabalho.
 # (sem import, random, lambda, list comprehension, try/except ou classes).
 
 
